@@ -61,3 +61,4 @@ SoftwareSchema.methods.findSearch=async function(search, asignatura){
 
 module.exports=mongoose.model('software', SoftwareSchema);
 
+//aaaaaa
